@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+table,th,td{
+    border: 3px dashed crimson;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    margin: 50px 120px ;
+}
+tr{
+    height: 30px;
+}
+th{
+    width: 400px;
+    background-color: rgb(175, 175, 175);
+}
+.th3-th4{
+    width: 100px;
+}
+h2{
+    margin: 50px;
+    color: hotpink;
+}
